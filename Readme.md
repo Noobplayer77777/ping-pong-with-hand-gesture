@@ -25,4 +25,5 @@ Increment this number until you see your webcam.
 
 ## Result
 
-![Alt Text](https://github.com/paveldat/pong_game/blob/main/img/Result.gif)
+![Alt Text](<img width="1597" height="897" alt="image" src="https://github.com/user-attachments/assets/127ff568-3756-43e8-9554-bdcdc3e780ed" />
+)
